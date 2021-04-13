@@ -1,0 +1,10 @@
+{
+  "name": "exchange-rate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "openzeppelin-solidity": "2.3.0",
+    "solhint": "^3.3.4"
+  }
+}
